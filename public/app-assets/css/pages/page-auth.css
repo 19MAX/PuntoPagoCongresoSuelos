@@ -24,7 +24,7 @@
     position: absolute;
     top: -54px;
     left: -46px;
-    background-image: url("../../../assets/images/logo_ueb.png");
+    /* background-image: url("../../../assets/images/logo_ueb.png"); */
 }
 
 @media (max-width: 575.98px) {
@@ -40,7 +40,7 @@
     position: absolute;
     bottom: -55px;
     right: -75px;
-    background-image: url("../../../assets/images/logo-ep.png");
+    /* background-image: url("../../../assets/images/logo-ep.png"); */
     z-index: -1;
 }
 

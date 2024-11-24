@@ -28,7 +28,7 @@
     </div>
     <div>
         <div class="error-page text-center">
-            <h2 class="headline" style="color: #0C244B;"> 403</h2>
+            <h2 class="headline" style="color: #2d886a;"> 403</h2>
             <div>
                 <h3><i class="fa fa-warning text-warning"></i> ¡Oops! Acceso prohibido.</h3>
                 <p>No tienes permiso para acceder a esta página.
@@ -36,8 +36,8 @@
             </div>
         </div>
         <div class="lockscreen-footer text-center m-t-3">
-            Copyright 2024 &copy; PROSERVI-UEB-EP |
-            <a href="" class="text-decoration-none link-light">Softec Apps S.A.S</a>
+            Copyright 2024 &copy; VII JCS-FACYT |
+            <a href="" class="text-decoration-none link-light"></a>
 
         </div>
     </div>

@@ -46,7 +46,7 @@
         }
 
         .no-events h2 {
-            color: #0C244B;
+            color: #2d886a;
         }
 
         .no-events p {
@@ -54,10 +54,10 @@
         }
     </style>
     <main class="flex-grow-1" style="background-color: #d9d9d9;">
-        <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #0C244B;">
+        <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #2d886a;">
             <div class="container-fluid">
                 <a class="navbar-brand ms-lg-4" href="">
-                    <h4>PROSERVI-UEB-EP</h4>
+                    <h4> VII JCS-FACYT</h4>
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                     aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -94,7 +94,7 @@
         </nav>
         <div class="mb-4">
             <div class="text-center">
-                <img src="<?= base_url("assets/images/logo-ep.png"); ?>" alt="" height="100px">
+                <!-- <img src="<?= base_url("assets/images/logo.svg"); ?>" alt="" height="100px"> -->
             </div>
             <section class="container flex-grow-1 d-flex">
                 <div class="row flex-grow-1">
@@ -114,8 +114,8 @@
                                             class="img-fluid imagen-pequena rounded-2 ">
                                     </figure>
                                     <figure class="text-center">
-                                        <img src="<?= base_url("assets/images/logo_ueb.png") ?>" alt="Logo del curso"
-                                            class="img-fluid" width="120px;">
+                                        <!-- <img src="<?= base_url("assets/images/logo.svg") ?>" alt="Logo del curso"
+                                            class="img-fluid" style="width:50px;"> -->
                                     </figure>
                                     <section class="px-2">
                                         <article class="date__start__content">
@@ -228,11 +228,11 @@
                         }
 
                         .text-home {
-                            color: #0C244B !important;
+                            color: #2d886a !important;
                         }
 
                         .bg-home {
-                            background-color: #0C244B !important;
+                            background-color: #2d886a !important;
                         }
                     </style>
                 </div>
@@ -303,7 +303,7 @@
                                         <div class="bg-success rounded-circle p-3 me-3">
                                             <i class="fa-solid fa-building-columns text-white fs-4"></i>
                                         </div>
-                                        <h5 class="card-title mb-0">Campus UEB</h5>
+                                        <h5 class="card-title mb-0">Campus</h5>
                                     </div>
                                     <ul class="list-unstyled">
                                         <li class="mb-2">
@@ -534,7 +534,7 @@
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title" id="modalDetallesEventoLabel" style="color: #0C244B;">
+                    <h5 class="modal-title" id="modalDetallesEventoLabel" style="color: #2d886a;">
                         <span id="titleEvent"></span>
                     </h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
@@ -824,8 +824,8 @@
     <!-- Footer-->
     <footer class="bg-dark text-light py-4 mt-auto">
         <div class="container-fluid text-center">
-            <div class="small m-0 text-white p-1">Copyright 2024 &copy; PROSERVI-UEB-EP |
-                <a href="" class="text-decoration-none link-light">Softec Apps S.A.S</a>
+            <div class="small m-0 text-white p-1">Copyright 2024 &copy; VII JCS-FACYT |
+                <a href="" class="text-decoration-none link-light"></a>
             </div>
         </div>
     </footer>

@@ -21,7 +21,7 @@
 
         .header {
             background-color: #fff;
-            border-bottom: 2px solid #0c244b;
+            border-bottom: 2px solid #2d886a;
             border-radius: 10px 10px 0 0;
         }
 
@@ -30,7 +30,7 @@
         }
 
         .content {
-            border: 2px solid #0c244b;
+            border: 2px solid #2d886a;
             border-radius: 10px;
         }
 
@@ -63,7 +63,7 @@
         }
 
         .highlight {
-            color: #0c244b;
+            color: #2d886a;
             font-weight: bold;
         }
 
@@ -88,7 +88,7 @@
         }
 
         .footer {
-            background-color: #0c244b;
+            background-color: #2d886a;
             color: white;
             padding: 20px;
             text-align: center;
@@ -128,7 +128,7 @@
             }
 
             .header .bottom {
-                border-bottom: 2px solid #0c244b;
+                border-bottom: 2px solid #2d886a;
             }
 
             .col {
@@ -233,7 +233,7 @@
                         </span>,
                         puedes elegir tu método de pago (depósito o tarjeta) en el sistema para completar tu pago.
                     </p>
-                    <p style="text-align: center;">Haz clic en <a style="border-bottom: 2px solid #0c244b; text-decoration: none; border-radius: 10px; color:#0c244b; padding: 5px 5px; background-color: #e5e8ff;"
+                    <p style="text-align: center;">Haz clic en <a style="border-bottom: 2px solid #2d886a; text-decoration: none; border-radius: 10px; color:#2d886a; padding: 5px 5px; background-color: #e5e8ff;"
                         href="<?= base_url('?modal=metodo&codigoPago=' . $codigoPago) ?>"> <strong>PAGAR EN EL SISTEMA</strong></a></p>
                     <hr>
                     <h3 style="text-align: center;">Para depósitos o transferencias bancarias:</h3>
@@ -301,7 +301,7 @@
         </div>
 
         <div class="footer">
-            <p>© 2024 PROSERVI-UEB-EP | Softec Apps S.A.S. Todos los derechos reservados.</p>
+            <p>© 2024 VII JCS-FACYT |. Todos los derechos reservados.</p>
         </div>
 
     </main>

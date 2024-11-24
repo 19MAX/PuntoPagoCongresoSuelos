@@ -90,14 +90,14 @@
 }
 
 .btn-outline-person {
-    color: #0C244B;
-    border-color: #0C244B;
+    color: #2d886a;
+    border-color: #2d886a;
 }
 
 .btn-outline-person:hover {
     color: #fff;
-    background-color: #0C244B;
-    border-color: #0C244B;
+    background-color: #2d886a;
+    border-color: #2d886a;
 }
 
 .btn-outline-person:focus,
@@ -107,7 +107,7 @@
 
 .btn-outline-person.disabled,
 .btn-outline-person:disabled {
-    color: #0C244B;
+    color: #2d886a;
     background-color: transparent;
 }
 
@@ -115,8 +115,8 @@
 .btn-outline-person:not(:disabled):not(.disabled).active,
 .show>.btn-outline-person.dropdown-toggle {
     color: #fff;
-    background-color: #0C244B;
-    border-color: #0C244B;
+    background-color: #2d886a;
+    border-color: #2d886a;
 }
 
 .btn-outline-person:not(:disabled):not(.disabled):active:focus,
@@ -211,7 +211,7 @@
 }
 
 .container label input:checked+span {
-    background-color: #0C244B;
+    background-color: #2d886a;
     color: white;
 }
 
@@ -228,7 +228,7 @@
     padding: 0.375em 0.75em;
     border-radius: 99em;
     transition: 0.25s ease;
-    color: #0C244B;
+    color: #2d886a;
 }
 
 .container label span:hover {
@@ -276,7 +276,7 @@
 }
 
 .modalContainer label input:checked+span {
-    background-color: #0C244B;
+    background-color: #2d886a;
     /* Color de fondo al estar seleccionado */
     color: white;
 }
@@ -294,7 +294,7 @@
     padding: 0.375em 0.75em;
     border-radius: 99em;
     transition: 0.25s ease;
-    color: #0C244B;
+    color: #2d886a;
 }
 
 .modalContainer label span:hover {
@@ -406,8 +406,8 @@
 }
 
 .text-home{
-    color: #0C244B !important;
+    color: #2d886a !important;
 }
 .bg-home{
-    background-color: #0C244B !important;
+    background-color: #2d886a !important;
 }

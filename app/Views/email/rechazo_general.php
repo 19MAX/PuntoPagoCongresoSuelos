@@ -132,10 +132,10 @@
 						<tbody>
 							<tr>
 								<td>
-									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #fff; border-left: 2px solid #0c244b; border-radius: 10px 10px 0 0; border-right: 2px solid #0c244b; border-top: 2px solid #0c244b; color: #000000; width: 650px; margin: 0 auto;" width="650">
+									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #fff; border-left: 2px solid #2d886a; border-radius: 10px 10px 0 0; border-right: 2px solid #2d886a; border-top: 2px solid #2d886a; color: #000000; width: 650px; margin: 0 auto;" width="650">
 										<tbody>
 											<tr>
-												<td class="column column-1" width="25%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; border-bottom: 2px solid #0c244b; padding-bottom: 5px; padding-top: 5px; vertical-align: top; border-top: 0px; border-left: 0px; background-color: white; border-radius: 10px 10px 0px 10px">
+												<td class="column column-1" width="25%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; border-bottom: 2px solid #2d886a; padding-bottom: 5px; padding-top: 5px; vertical-align: top; border-top: 0px; border-left: 0px; background-color: white; border-radius: 10px 10px 0px 10px">
 													<table class="image_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
 														<tr>
 															<td class="pad" style="width:100%;padding-right:0px;padding-left:0px;">
@@ -146,7 +146,7 @@
 														</tr>
 													</table>
 												</td>
-												<td class="column column-2" width="75%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; background-color: #fff; padding-bottom: 5px; padding-top: 5px; vertical-align: top; border-top: 0px; border-right: 0px; border-bottom: 2px solid #0c244b;
+												<td class="column column-2" width="75%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; background-color: #fff; padding-bottom: 5px; padding-top: 5px; vertical-align: top; border-top: 0px; border-right: 0px; border-bottom: 2px solid #2d886a;
 												border-radius: 10px 10px 10px 0 ;">
 													<table class="heading_block block-1" width="100%" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
 														<tr>
@@ -167,14 +167,14 @@
 						<tbody>
 							<tr>
 								<td>
-									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff; border-left: 2px solid #0c244b; border-radius: 0; border-right: 2px solid #0c244b; color: #000000; width: 650px; margin: 0 auto;" width="650">
+									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff; border-left: 2px solid #2d886a; border-radius: 0; border-right: 2px solid #2d886a; color: #000000; width: 650px; margin: 0 auto;" width="650">
 										<tbody>
 											<tr>
 												<td class="column column-1" width="100%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; padding-bottom: 5px; padding-top: 5px; vertical-align: top; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;">
 													<table class="heading_block block-1" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #fff;">
 														<tr>
 															<td class="pad">
-																<h1 style="margin: 0; color: #0c244b; direction: ltr; font-family: Tahoma, Verdana, Segoe, sans-serif; font-size: 22px; font-weight: 700; letter-spacing: normal; line-height: 120%; text-align: left; margin-top: 0; margin-bottom: 0; mso-line-height-alt: 26.4px;"><span class="tinyMce-placeholder">Estimado(a) Cliente, <?= $names ?></span></h1>
+																<h1 style="margin: 0; color: #2d886a; direction: ltr; font-family: Tahoma, Verdana, Segoe, sans-serif; font-size: 22px; font-weight: 700; letter-spacing: normal; line-height: 120%; text-align: left; margin-top: 0; margin-bottom: 0; mso-line-height-alt: 26.4px;"><span class="tinyMce-placeholder">Estimado(a) Cliente, <?= $names ?></span></h1>
 															</td>
 														</tr>
 													</table>
@@ -190,7 +190,7 @@
 						<tbody>
 							<tr>
 								<td>
-									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff; border-left: 2px solid #0c244b; border-radius: 0; border-right: 2px solid #0c244b; color: #000000; width: 650px; margin: 0 auto;" width="650">
+									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff; border-left: 2px solid #2d886a; border-radius: 0; border-right: 2px solid #2d886a; color: #000000; width: 650px; margin: 0 auto;" width="650">
 										<tbody>
 											<tr>
 												<td class="column column-1" width="100%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; padding-bottom: 5px; padding-top: 5px; vertical-align: top; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;">
@@ -217,7 +217,7 @@
 						<tbody>
 							<tr>
 								<td>
-									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #FFFFFF; border-left: 2px solid #0c244b; border-right: 2px solid #0c244b; color: #000000; width: 650px; margin: 0 auto;" width="650">
+									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #FFFFFF; border-left: 2px solid #2d886a; border-right: 2px solid #2d886a; color: #000000; width: 650px; margin: 0 auto;" width="650">
 										<tbody>
 											<tr>
 												<td class="column column-1" width="100%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; padding-top: 5px; vertical-align: top; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;">
@@ -236,7 +236,7 @@
 						<tbody>
 							<tr>
 								<td>
-									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff; border-left: 2px solid #0c244b; border-radius: 0; border-right: 2px solid #0c244b; color: #000000; width: 650px; margin: 0 auto;" width="650">
+									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff; border-left: 2px solid #2d886a; border-radius: 0; border-right: 2px solid #2d886a; color: #000000; width: 650px; margin: 0 auto;" width="650">
 										<tbody>
 											<tr>
 												<td class="column column-1" width="100%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; padding-bottom: 5px; padding-top: 5px; vertical-align: top; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;">
@@ -265,7 +265,7 @@
 						<tbody>
 							<tr>
 								<td>
-									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #fff; border-bottom: 2px solid #0c244b; border-left: 2px solid #0c244b; border-radius: 0 0 10px 10px; border-right: 2px solid #0c244b; color: #000000; width: 650px; margin: 0 auto;" width="650">
+									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #fff; border-bottom: 2px solid #2d886a; border-left: 2px solid #2d886a; border-radius: 0 0 10px 10px; border-right: 2px solid #2d886a; color: #000000; width: 650px; margin: 0 auto;" width="650">
 										<tbody>
 											<tr>
 												<td class="column column-1" width="75%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; padding-bottom: 5px; padding-top: 5px; vertical-align: top; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;">
@@ -316,7 +316,7 @@
 							</tr>
 						</tbody>
 					</table>
-					<table class="row row-10" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #0c244b;">
+					<table class="row row-10" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #2d886a;">
 						<tbody>
 							<tr>
 								<td>
@@ -342,7 +342,7 @@
 							</tr>
 						</tbody>
 					</table>
-					<table class="row row-11" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #0c244b;">
+					<table class="row row-11" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #2d886a;">
 						<tbody>
 							<tr>
 								<td>
@@ -371,7 +371,7 @@
 							</tr>
 						</tbody>
 					</table>
-					<table class="row row-12" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #0c244b;">
+					<table class="row row-12" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #2d886a;">
 						<tbody>
 							<tr>
 								<td>
@@ -383,7 +383,7 @@
 														<tr>
 															<td class="pad">
 																<div style="color:#FFFFFF;font-family:Tahoma, Verdana, Segoe, sans-serif;font-size:14px;font-weight:400;line-height:120%;text-align:center;mso-line-height-alt:16.8px;">
-																	<p style="margin: 0;">© 2024 PROSERVI-UEB-EP | Softec Apps S.A.S. Todos los derechos reservados.</p>
+																	<p style="margin: 0;">© 2024 VII JCS-FACYT |. Todos los derechos reservados.</p>
 																</div>
 															</td>
 														</tr>

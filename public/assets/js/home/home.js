@@ -277,11 +277,11 @@ document.addEventListener("DOMContentLoaded", function () {
           title: "<strong>¡Registro Exitoso!</strong>",
           icon: "success",
           html: `
-              <p style="color: #0C244B;">Te has registrado para el evento: </br><b>${data.eventName}</b></p>
+              <p style="color: #2d886a;">Te has registrado para el evento: </br><b>${data.eventName}</b></p>
                <!--<p>Tienes <b>${diasRestantes}</b> días para realizar el pago.</p>-->
-              <p style="color: #0C244B;">Comprobante de registro enviado a: <b>${data.email}</b></p>
-              <p><strong style="color: #0C244B;">Tu código de pago es:</strong></p>
-              <h2 style="color: #0C244B; border: 2px solid #ff416c; padding: 10px; display: inline-block; border-radius: 30px;">
+              <p style="color: #2d886a;">Comprobante de registro enviado a: <b>${data.email}</b></p>
+              <p><strong style="color: #2d886a;">Tu código de pago es:</strong></p>
+              <h2 style="color: #2d886a; border: 2px solid #ff416c; padding: 10px; display: inline-block; border-radius: 30px;">
                 ${data.codigoPago}
               </h2>
               <hr>
