@@ -81,9 +81,9 @@ Detalles de la transacción
         <hr>
         <div class="text-center">
             <?php
-            if (isset($numAutorizacion["num_autorizacion"])):
+            if (isset($numAutorizacion)):
                 ?>
-                <a target="_blank" href="<?= base_url('pdf/' . $numAutorizacion['num_autorizacion'] ?? 'error') ?>"
+                <a target="_blank" href="<?= base_url('pdf/' . $numAutorizacion ?? 'error') ?>"
                     class="btn btn-outline-danger"><i class="fa-solid fa-file-pdf"></i> PDF</a>
                 <?php
             endif ?>
