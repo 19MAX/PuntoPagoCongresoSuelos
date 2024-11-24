@@ -1,4 +1,4 @@
-# SISTEMA DE GESTIÓN DE CONGRESOS
+# SISTEMA DE PUNTOS DE PAGO
 
 ## Descripción General
 Este sistema permite la inscripción de usuarios a diversos eventos, gestionando tanto el registro como el cobro de las inscripciones. Los eventos pueden tener diferentes categorías, y los usuarios tienen la opción de pagar a través de varios métodos, incluyendo pagos en línea, depósitos manuales y pagos en puntos físicos.
