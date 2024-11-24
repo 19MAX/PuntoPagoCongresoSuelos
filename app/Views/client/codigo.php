@@ -233,7 +233,7 @@
                         </span>,
                         puedes elegir tu método de pago (depósito o tarjeta) en el sistema para completar tu pago.
                     </p>
-                    <p style="text-align: center;">Haz clic en <a style="border-bottom: 2px solid #2d886a; text-decoration: none; border-radius: 10px; color:#2d886a; padding: 5px 5px; background-color: #e5e8ff;"
+                    <p style="text-align: center;">Haz clic en <br> <a style="border-bottom: 2px solid #2d886a; text-decoration: none; border-radius: 10px; color:#2d886a; padding: 5px 5px; background-color: #e5e8ff;"
                         href="<?= base_url('?modal=metodo&codigoPago=' . $codigoPago) ?>"> <strong>PAGAR EN EL SISTEMA</strong></a></p>
                     <hr>
                     <h3 style="text-align: center;">Para depósitos o transferencias bancarias:</h3>
